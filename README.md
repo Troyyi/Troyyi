@@ -7,7 +7,6 @@ Back End Development & Networking
 I've been learning to code since 2019
 
 *   🌍  I'm based in Washington
-*   ✉️  You can contact me at [troydev@yomiweb.com](mailto:troydev@yomiweb.com)
 *   🚀  I'm currently working on [Yomiweb](http://yomiweb.com)
 *   🧠  I'm learning AWS DevOps
 *   🤝  I'm open to collaborating on open source projects
