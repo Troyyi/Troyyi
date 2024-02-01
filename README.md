@@ -8,6 +8,7 @@ I've been learning to code since 2019
 
 *   🌍  I'm based in Washington
 *   🚀  I'm currently working on [Yomiweb](http://yomiweb.com)
+*   🖊️  I'm putting together a portfolio on [Troy Port](https://troyyi.github.io)
 *   🧠  I'm learning AWS DevOps
 *   🤝  I'm open to collaborating on open source projects
   ##  Skills 
