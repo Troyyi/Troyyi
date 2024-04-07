@@ -36,5 +36,4 @@ I've been learning to code since 2019!
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/troyyi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-</ul>
+<a href="https://www.ko-fi.com/troyyi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
