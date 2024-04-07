@@ -11,8 +11,8 @@ I've been learning to code since 2019!
 *   🚀  I'm currently working on [Yomiweb](http://yomiweb.com/)
 *   🧠  I'm learning AWS DevOps and currently rebuilding the A+ programming language
 *   🤝  I'm open to collaborating on open source projects
-<a href="https://www.github.com/Troyyi" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Troyyi?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" /></a>
+<a href="https://www.github.com/Troyyi" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/Troyyi?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" /></a>
 
 ### Skills 
 <p align="left">
