@@ -6,8 +6,6 @@ Back End Development & Networking
 
 I've been learning to code since 2019!
 
-*   🌍  I'm based in Washington
-*   🖥️  See my portfolio at [Portfolioli](http://troyyi.github.io/)
 *   🚀  I'm currently working on [Yomiweb](http://yomiweb.com/)
 *   🧠  I'm learning AWS DevOps and currently rebuilding the A+ programming language
 *   🤝  I'm open to collaborating on open source projects
