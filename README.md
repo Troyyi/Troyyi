@@ -7,9 +7,6 @@ Back End Development & Networking
 I've been learning to code since 2019!
 
 *   🚀  I'm currently working on [Yomiweb](http://yomiweb.com/)
-*   🧠  I'm learning AWS DevOps and currently rebuilding the A+ programming language
-*   🤝  I'm open to collaborating on open source projects
-*   🤝  Hit me up for any collabs!
 <a href="https://www.github.com/Troyyi" target="_blank" rel="noreferrer">
 
 ### Skills 
